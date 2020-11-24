@@ -1,0 +1,1 @@
+C:\Repos\active-directory-b2c-dotnet-uwp\Test\Test.csproj;x86
