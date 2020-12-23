@@ -118,10 +118,10 @@ namespace Test
         //public static string[] ApiScopes = { "https://fabrikamb2c.onmicrosoft.com/helloapi/demo.read" };
 
         private static string Tenant = "sundaramapptech.onmicrosoft.com";
-        private static string ClientId = //"33dbfb8a-4da3-4bab-920c-e1aba2e3aaae";//
-            "31508cf8-4b9e-4c0b-a304-a2b97c2e228f";
+        private static string ClientId = "33dbfb8a-4da3-4bab-920c-e1aba2e3aaae";//
+                                                                                // "31508cf8-4b9e-4c0b-a304-a2b97c2e228f";
         private static string BaseAuthority = "https://sundaramapptech.b2clogin.com/tfp/{tenant}/{policy}";
-        public static string PolicySignUpSignIn = "B2C_1_login";
+        public static string PolicySignUpSignIn = "B2C_1_login2";
         public static string[] ApiScopes = { "" };
 
 
